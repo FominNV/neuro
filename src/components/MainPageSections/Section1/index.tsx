@@ -56,10 +56,10 @@ const Section1: FC = () => {
             </a>
           </div>
 
-          <h1 className="Section1__text Section1__text_h1">
+          <h1 className="Section1__text Section1__text_h1 Section1__text_z-5">
             Диагностика и лечение заболеваний нервной системы
           </h1>
-          <p className="Section1__text Section1__text_mt-20">
+          <p className="Section1__text Section1__text_mt-20 Section1__text_z-5">
             в профильной клинике на самом современном оборудовании
           </p>
 

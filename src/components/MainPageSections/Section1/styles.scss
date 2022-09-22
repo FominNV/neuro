@@ -44,13 +44,11 @@
   }
 
   &__text {
-    position: relative;
     max-width: 700px;
     font: 400 20px/23px Roboto;
     color: $black;
     letter-spacing: 0em;
     text-align: left;
-    z-index: 5;
 
     @media (max-width: $md), (max-device-width: $md) {
       background: rgba($white, 0.7);
@@ -101,6 +99,11 @@
       margin-bottom: 4px;
     }
 
+    &_z-5 {
+      position: relative;
+      z-index: 5;
+    }
+
     &_width-sm-none {
       @media (max-width: $sm), (max-device-width: $sm) {
         display: none;
@@ -137,6 +140,7 @@
     display: flex;
     column-gap: 15px;
     margin-top: 70px;
+    width: fit-content;
     z-index: 10;
 
     @media (max-width: $l), (max-device-width: $l) {
