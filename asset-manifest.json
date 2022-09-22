@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/neuro/static/css/main.4c87ad74.css",
+    "main.js": "/neuro/static/js/main.6b61c149.js",
+    "static/media/clinic.png": "/neuro/static/media/clinic.9127f1d4697c84a56b81.png",
+    "static/media/logo.png": "/neuro/static/media/logo.6dc3387f57f3d64177f9.png",
+    "static/media/card.svg": "/neuro/static/media/card.904d23f92ff8b912350b85f4f095bb25.svg",
+    "static/media/doctor.svg": "/neuro/static/media/doctor.9807c2bfffe3a4ccbf0f8e34e39f7b38.svg",
+    "static/media/care.svg": "/neuro/static/media/care.d7c46a6fd8fafcc4008d7bff6efcf92a.svg",
+    "static/media/calendar.svg": "/neuro/static/media/calendar.3299ff9e9caf09b9ed44781ea7eac984.svg",
+    "static/media/place.svg": "/neuro/static/media/place.55ed7eeb3edaf84dd15ba88f0b3ec922.svg",
+    "static/media/whatsapp.svg": "/neuro/static/media/whatsapp.1876d2d62086f293d48f8fd69b01d84e.svg",
+    "static/media/basket.svg": "/neuro/static/media/basket.d42842a51aea217fcc4a60f3a388401f.svg",
+    "static/media/video.svg": "/neuro/static/media/video.cb3bd46564a7a9c7e270adc1df9ba9f1.svg",
+    "static/media/eye.svg": "/neuro/static/media/eye.b098fe7577818d62bbb3e2be06d72a83.svg",
+    "static/media/center.svg": "/neuro/static/media/center.4da6633780d18f080780969af8c8b441.svg",
+    "static/media/phone.svg": "/neuro/static/media/phone.1d91b001fc8621ec56308bf562a3253f.svg",
+    "index.html": "/neuro/index.html",
+    "main.4c87ad74.css.map": "/neuro/static/css/main.4c87ad74.css.map",
+    "main.6b61c149.js.map": "/neuro/static/js/main.6b61c149.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c87ad74.css",
+    "static/js/main.6b61c149.js"
+  ]
+}
